@@ -4,7 +4,7 @@ Live Road Assessment Custom Dataset (LiRA-CD) is an open-source dataset for road
 The LiRA-CD contains 1796 kilometer of road data from highway and urban roads in the Copenhagen area collected during the LiRA project (see e.g., [lira2020](https://lira-project.dk/) and [levenberg2021](https://doi.org/10.1177/03611981211016852). It includes more than 50 in-vehicle sensors signals from Renault Zoe electric cars operated by GreenMobility (GM) and 92 road condition parameters collected with standard vehicles operated by the Danish Road Directorate (DRD).
 
 <div>
-<img src="images/Roadmap_ALVA.png" width="100%">
+<img src="images/dataset_overview.png" width="100%">
 </div>
 <p>
  <b>Figure 1:</b> Graphical outline of the data collection and data infrastructure in the LiRA project [lira2020](https://lira-project.dk/). 
