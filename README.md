@@ -10,7 +10,17 @@ The LiRA-CD contains 1796 kilometer of road data from highway and urban roads in
  <b>Figure 1:</b> Graphical outline of the data collection and data infrastructure in the LiRA project. 
 </p>
 
-## 
+## Data description
+
+| Software    |   R1    |     R2   |    R3   |    R4   |  R5   |     R6   |  R7     |    R8  |
+|-------------|---------|----------|---------|---------|-------|----------|---------|--------|
+| BISAR       |   0.7   |    -120  |    1    |   217   | 0.4    |   -78   |  -10    |  205 |
+| KENLAYER    |   0.7   |    -120  |    1    |   216   |   0    |   -78   |  -10    |  205 |
+| GAMES       |   0.7   |    -119  |   11    |   217   |   0    |   -77   |   -1    |  205 |
+| ALVA ('Slip') |   0.7   |  -119.5  |  0.7    | 216.5   | 0.3    | -77.8   | -9.7    |204.7 |
+<p>
+<b>Table 5</b>: Reference pavement system subjeceted to a single wheel load - unbonded interface between layer 1 and 2, bonded interface between layer 2 and 3.
+</p>
 
 
 ## Installation
